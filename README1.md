@@ -6,10 +6,15 @@ the app and view it from the Google Play Store. It can only be downloaded throug
 
 Open Android Studio (Eclipse's official IDE) in order to view the code, it can only be viewed through Androd Studio. 
 The code can be seen on Eclipse but, there will be some errors as Eclipse lacks some features of Android Studio. 
-In Android Studio, click on import new project and from the flashdrive click on "click on me but do not import" and then click on "import this one" and 
-begin importing the project.
+In Android Studio, click on import new project and from the flashdrive click on "click on me but do not import" and then click on "import this one" and begin importing the project.
 
 The project will open up in Android Studio and you will be able to view all the code. 
 Hoewever, to effectively view the app make sure to download it from the link that is avaialbe in the read me file on https://github.com/Bhumik29/FBLADressFinal
 
 Thank you and enjoy!
+
+
+INSTRUCTIONS FOR EMULATING
+-You can emulate the app through the emulator on android studio/eclipse but you will not be able to try out the camera option because there is no sdk on the android studio/eclipse emulator. To use this option, launch any emulator and then press "run" and choose the emulator that you launched for viewing the app.
+-To view the app through an android phone, connect the phone to the computer with the project open in android studio through a usb. Then go to the phone's settings and click on about phone and tap "build number" 6 0r 7 times until it says "you are now a developer" and then return back to the settings of your phone to find "developer options", click on that and check "usb debugging". Then, go back to the project on your computer and click on run, then choose the android phone as the device through run it on. Then, the app will be able to be viewed from the phone. 
+
