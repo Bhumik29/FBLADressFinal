@@ -4,12 +4,16 @@ FBLADressFinal
 Mobile Applications for FBLA SLC Go to https://github.com/Bhumik29/FBLADressFinal and click on the read me file in order to recieve the link to download 
 the app and view it from the Google Play Store. It can only be downloaded through an Android Device.
 
+TO IMPORT THE CODE FROM THIS GITHUB LINK FOLLOW THESE DIRECTIONS 
+http://maxrohde.com/2014/08/18/import-github-project-to-android-studio/- THIS ARE THE DIRECTIONS TO IMPORT GITHUB CODE TO ANDROID STUDIO. USE THE LINK https://github.com/Bhumik29/FBLADress.git FOR STEP 3, THIS IS THE HTTPS LINK. USE kapika29@gmail.com and bhumik2912 as the username and password when it asks for the login. Then go to "INSTRUCTIONS FOR EMULATING" to see how to view the app. 
+
+IF YOU HAVE THE FLASHDRIVE FOLLOW THESE DIRECTIONS
 Open Android Studio (Eclipse's official IDE) in order to view the code, it can only be viewed through Androd Studio. 
 The code can be seen on Eclipse but, there will be some errors as Eclipse lacks some features of Android Studio. 
 In Android Studio, click on import new project and from the flashdrive click on "click on me but do not import" and then click on "import this one" and begin importing the project.
 
 The project will open up in Android Studio and you will be able to view all the code. 
-Hoewever, to effectively view the app make sure to download it from the link that is avaialbe in the read me file on https://github.com/Bhumik29/FBLADressFinal
+
 
 Thank you and enjoy!
 
