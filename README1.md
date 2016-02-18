@@ -1,8 +1,4 @@
-# FBLADressFinal
-Mobile Applications for FBLA SLChttps://github.com/Bhumik29/FBLADressFinal.git
-FBLADressFinal
-Mobile Applications for FBLA SLC Go to https://github.com/Bhumik29/FBLADressFinal and click on the read me file in order to recieve the link to download 
-the app and view it from the Google Play Store. It can only be downloaded through an Android Device.
+Welcome!
 
 TO IMPORT THE CODE FROM THIS GITHUB LINK FOLLOW THESE DIRECTIONS 
 Open up android studio and click on "file" then "new" and then "import from version control". Then press "github" enter https://github.com/Bhumik29/FBLADress.git as the the "Git Repository URL" then choose a location on your computer to save the new project and name the project whatever you would like. Then press clone. If you are asked for your github login, use kapika29@gmail.com as your username and bhumik2912 as your password. When the project opens in android studio, after it has loaded there will be two alerts, one will be an error and the other will say "frameworks detected". Click on configure when it says "frameworks detected, Android framework is detected in this project", then press "ok".  After the project has loaded, the error will be gone and you will be able to see the code. To view the entire code, look on the top left where is has the project name, underneath that it will say "Android", click on that and change it to "project". Now, scroll down to "INSTRUCTIONS FOR EMULATING" in this file to see how to emulate the app. 
