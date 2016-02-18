@@ -5,7 +5,7 @@ Mobile Applications for FBLA SLC Go to https://github.com/Bhumik29/FBLADressFina
 the app and view it from the Google Play Store. It can only be downloaded through an Android Device.
 
 TO IMPORT THE CODE FROM THIS GITHUB LINK FOLLOW THESE DIRECTIONS 
-Click on "download zip" which is on the top right of the github page. Then open android studio and click on import new project. Choose the zip file that you just downloaded as the file you want to import, you can name the file whatever you want. The code should appear after it loads for a few minutes. On the side, click on project and change the top so it says "packages" and not "android". 
+Open up android studio and click on "file" then "new" and then "import from version control". Then press "github" enter https://github.com/Bhumik29/FBLADress.git as the the "Git Repository URL" then choose a location on your computer to save the new project and name the project whatever you would like. Then press clone. If you are asked for your github login, use kapika29@gmail.com as your username and bhumik2912 as your password. After the project has loaded you will be able to see the code. Now, scroll down to "INSTRUCTIONS FOR EMULATING" in this file to see how to emulate the app. 
 
 IF YOU HAVE THE FLASHDRIVE FOLLOW THESE DIRECTIONS
 Open Android Studio (Eclipse's official IDE) in order to view the code, it can only be viewed through Androd Studio. 
