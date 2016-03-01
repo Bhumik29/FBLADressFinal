@@ -1,6 +1,6 @@
 Welcome!
 
-TO IMPORT THE CODE FROM THIS GITHUB LINK FOLLOW THESE DIRECTIONS 
+TO IMPORT THE CODE FROM THIS GITHUB LINK FOLLOW THESE DIRECTIONS- THIS IS THE BEST WAY TO VIEW THE APP AND RUN THE CODE 
 Start a new android studio project by clicking on new project, it can be named anything. Once you are in the android studio build area, click on "file" then "new" and then "project from version control". Then press "github" enter https://github.com/Bhumik29/FBLADress.git as the the "Git Repository URL" then choose a location on your computer to save the new project and name the project whatever you would like. Then press clone. If you are asked for your github login, use kapika29@gmail.com as your username and bhumik2912 as your password. When the project opens in android studio, after it has loaded there will be two alerts, one will be an error and the other will say "frameworks detected". Click on configure when it says "frameworks detected, Android framework is detected in this project", then press "ok".  After the project has loaded, the error will be gone and you will be able to see the code. To view the entire code, look on the top left where is has the project name, underneath that it will say "Android", click on that and change it to "project". Then close the project and reopen the project. Then, you can scroll down to "INSTRUCTIONS FOR EMULATING" in this file to see how to emulate the app. 
 
 IF YOU HAVE THE FLASHDRIVE FOLLOW THESE DIRECTIONS
