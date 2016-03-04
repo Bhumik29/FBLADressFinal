@@ -15,5 +15,6 @@ Thank you and enjoy!
 
 
 INSTRUCTIONS FOR EMULATING
+-go to https://play.google.com/store/apps/details?id=com.bhumikaa.bhumika29.fbladress
 -You can emulate the app through the emulator on android studio/eclipse but you will not be able to try out the camera option because there is no sdk on the android studio/eclipse emulator. To use this option, launch any emulator and then press "run" and choose the emulator that you launched for viewing the app.
 -To view the app through an android phone, connect the phone to the computer with the project open in android studio through a usb. Then go to the phone's settings and click on "about phone" and tap "build number" 6 or 7 times until it says "you are now a developer" and then return back to the settings of your phone to find "developer options", click on that and check "usb debugging". Then, go back to the project on your computer and click on run, then choose the android phone as the device through run it on. Then, the app will be able to be viewed from the phone. You can only post pictures through the "front camera" mode because otherwise the file is too large. 
